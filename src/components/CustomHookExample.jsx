@@ -1,5 +1,5 @@
 import axios from "axios";
-import { useRequest } from "../hooks/custom/useRequest.js";
+import { useRequest } from "../hooks/useRequest.js";
 
 export const CustomHookExample = () => {
   const fetchPosts = () => {
